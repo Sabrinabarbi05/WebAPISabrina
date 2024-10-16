@@ -1,0 +1,6 @@
+@WebApiBia_HostAddress = http://localhost:5208
+
+GET {{WebApiBia_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
